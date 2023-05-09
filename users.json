@@ -1,0 +1,30 @@
+[
+  {
+    "User_Id": 1,
+    "Name": "dummy1",
+    "password": "asdf@1223",
+    "Email": "dummy1@gmail.com",
+    "PhoneNumber": "789654134"
+  },
+  {
+    "User_Id": 2,
+    "Name": "dummy4",
+    "password": "asdf@4443",
+    "Email": "dummy4@gmail.com",
+    "PhoneNumber": "789654134"
+  },
+  {
+    "User_Id": 3,
+    "Name": "dummy3",
+    "password": "asdf@3333",
+    "Email": "dummy3@gmail.com",
+    "PhoneNumber": "789648534"
+  },
+  {
+    "User_Id": 4,
+    "Name": "dummy2",
+    "password": "asdf@1123",
+    "Email": "dummy2@gmail.com",
+    "PhoneNumber": "789654789"
+  }
+]

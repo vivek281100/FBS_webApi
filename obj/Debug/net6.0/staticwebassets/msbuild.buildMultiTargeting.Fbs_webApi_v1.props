@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fbs_webApi_v1.props" />
+</Project>
